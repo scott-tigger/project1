@@ -1,0 +1,12 @@
+{
+  "editor.fontSize": 16,
+  "editor.suggestFontSize": 14,
+  "editor.hover.fontSize": 14,
+  "window.zoomLevel": 1,
+  "terminal.integrated.fontSize": 14
+}
+{
+    "github.copilot.enable": {
+        "*": false
+    }
+}
