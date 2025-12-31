@@ -1,0 +1,6 @@
+# CODEOWNERS — list the GitHub usernames or teams that should review changes.
+# Example: add a team or user for required reviews
+# * @your-github-username
+
+# Placeholders — update with your owner or team before enabling strict protection.
+* @scott-tigger

@@ -34,4 +34,4 @@ python -m venv .venv
 python word_count.py sample.txt
 ```
 
-If you'd like, I can add a `requirements.txt` and a small test harness next.
+
