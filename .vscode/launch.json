@@ -1,0 +1,22 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Run word_count.py",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/word_count.py",
+      "console": "integratedTerminal",
+      "args": ["sample.txt"]
+    },
+    {
+      "name": "Run pytest",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/.venv/bin/python",
+      "module": "pytest",
+      "console": "integratedTerminal",
+      "args": ["-q"]
+    }
+  ]
+}
